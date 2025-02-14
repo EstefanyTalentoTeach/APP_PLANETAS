@@ -1,6 +1,7 @@
 # myapp
 
 A new Flutter project.
+USE A SUA CRIATIVIDADE E CRIE O SEU PRÓPRIO PLANETA!
 
 ## Getting Started
 
